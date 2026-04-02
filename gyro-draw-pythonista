@@ -1,10 +1,6 @@
 from scene import *
 import motion
 
-'''
-set this up  in xcode again if u like
-'''
-
 class Game(Scene):
 	def setup(self):
 		self.background_color = False
